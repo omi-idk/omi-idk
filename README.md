@@ -1,6 +1,9 @@
 
 <h1 align="center">✨Hola✨</h1>
+Mi nombre es Omar y actualmente soy estudiante de la Universidad Veracruzana, en la carrera de Ingenieria de Software.
+
 <h2 align="center">Soy Omi, y te doy la bienvenida a mi github</h2>
+<h3 align="center">Estudiante de la Universidad Veracruzana en la carrera de Ingenieria de Software</h3>
 <h3 align="center">Un futuro ingeniero en software</h3>
 
 ![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
