@@ -10,12 +10,6 @@ Mi nombre es Omar y actualmente soy estudiante de la Universidad Veracruzana, en
 <a href="https://www.instagram.com/omi_idk_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zlcube" height="30" width="40" /></a>
 </p>
 
-
-<h3 align="center">Estadisticas:</h3>
-
-[![Omi's GitHub stats](https://github-readme-stats.vercel.app/api?username=omi-idk)](https://github.com/anuraghazra/github-readme-stats)
-
-
 ## :headphones: Mi spotify.
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=omarg2603&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
