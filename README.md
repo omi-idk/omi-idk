@@ -10,6 +10,9 @@ Mi nombre es Omar y actualmente soy estudiante de la Universidad Veracruzana, en
 <a href="https://www.instagram.com/omi_idk_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zlcube" height="30" width="40" /></a>
 </p>
 
+
+<h3 align="center">Estadisticas:</h3>
+
 [![Omi's GitHub stats](https://github-readme-stats.vercel.app/api?username=omi-idk)](https://github.com/anuraghazra/github-readme-stats)
 
 
