@@ -1,18 +1,72 @@
+<h1 align="center">✨ Welcome to my GitHub! ✨</h1>
 
-<h1 align="center">✨Hola, te doy la bienvenida a mi github✨</h1>
-Mi nombre es Omar y actualmente soy estudiante de la Universidad Veracruzana, en la carrera de Ingenieria de Software.
+Hi! My name is **Omar**, and I recently graduated with a degree in **Software Engineering** from the Universidad Veracruzana in Mexico.
+
+I enjoy working with modern technologies, ensuring software quality, and exploring tools that help improve real systems. I’ve participated in development and QA roles, and I'm especially interested in clean architecture, report generation, and web development.
 
 ![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
 
-<h3 align="center">Mis redes sociales:</h3>
+---
+
+## 📬 Contact
+
 <p align="center">
-<a href="https://twitter.com/omi_idk_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zlcube" height="30" width="40" /></a>
-<a href="https://www.instagram.com/omi_idk_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zlcube" height="30" width="40" /></a>
+  <a href="mailto:omarg2603@hotmail.com" target="blank">
+    <img align="center" src="https://img.icons8.com/color/30/microsoft-outlook-2019--v1.png" alt="outlook" height="30" width="30" />
+  </a>
+  <a href="https://t.me/omi_idk" target="blank">
+    <img align="center" src="https://img.icons8.com/color/30/telegram-app--v1.png" alt="telegram" height="30" width="30" />
+  </a>
 </p>
 
-## :headphones: Mi spotify.
+---
 
-[![Apple Music GitHub profile](https://music-profile.rayriffy.com/theme/dark.svg?uid=000289.45b56365da49455ab5a487d4effb7417.2250)](https://music-profile.rayriffy.com)
-## :wrench: Tecnologias y lenguajes.
+## 🚀 Projects
 
-![NodeJS](https://img.icons8.com/color/30/nodejs.png)![Github](https://img.icons8.com/material-outlined/30/github.png)![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)![Windows](https://img.icons8.com/color/30/windows-10.png)![Kali Linux](https://img.icons8.com/color/30/kali-linux.png)![Android Studio](https://img.icons8.com/color/30/android-studio.png)![Visual Studio](https://img.icons8.com/color/30/visual-studio.png)![C#](https://img.icons8.com/color/30/c#)
+- 🧪 **QA Collaboration on ARIES System - Universidad Veracruzana**
+- 🗂️ **Document Indexing and OCR Integration for Digital Archives -Freelancer project**
+- 🎓 **Support System for Graduate Programs – Universidad Veracruzana**
+
+---
+
+## 🛠️ Technologies I Work With
+
+**Frontend:**
+
+![Angular](https://img.icons8.com/color/30/angularjs.png)
+![HTML](https://img.icons8.com/color/30/html-5.png)
+![CSS](https://img.icons8.com/color/30/css3.png)
+![JavaScript](https://img.icons8.com/color/30/javascript.png)
+
+**Backend:**
+
+![.NET](https://img.icons8.com/color/30/net-framework.png)
+![Node.js](https://img.icons8.com/color/30/nodejs.png)
+![Java](https://img.icons8.com/color/30/java-coffee-cup-logo.png)
+![C#](https://img.icons8.com/color/30/c-sharp-logo.png)
+
+**Databases & Tools:**
+
+![Oracle](https://img.icons8.com/color/30/oracle-logo.png)
+![Git](https://img.icons8.com/color/30/git.png)
+![Python](https://img.icons8.com/color/30/python.png)
+![C++](https://img.icons8.com/color/30/c-plus-plus.png)
+![JasperReports](https://img.icons8.com/ios-filled/30/000000/pdf.png)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Omi-idk&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Omi-idk&theme=tokyonight" />
+</p>
+
+
+## 💬 About Me
+
+> "Simplicity is the ultimate sophistication." – *Leonardo da Vinci*
+
+I’m always eager to keep learning, build practical tools, and contribute to meaningful projects.
+
+---
