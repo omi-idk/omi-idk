@@ -29,39 +29,32 @@ I enjoy working with modern technologies, ensuring software quality, and explori
 
 ---
 
-## 🛠️ Technologies I Work With
+## 🛠️ Languages and Frameworks I Work With
 
-**Frontend:**
-
-![Angular](https://img.icons8.com/color/30/angularjs.png)
-![HTML](https://img.icons8.com/color/30/html-5.png)
-![CSS](https://img.icons8.com/color/30/css3.png)
-![JavaScript](https://img.icons8.com/color/30/javascript.png)
-
-**Backend:**
-
-![.NET](https://img.icons8.com/color/30/net-framework.png)
-![Node.js](https://img.icons8.com/color/30/nodejs.png)
-![Java](https://img.icons8.com/color/30/java-coffee-cup-logo.png)
 ![C#](https://img.icons8.com/color/30/c-sharp-logo.png)
-
-**Databases & Tools:**
-
-![Oracle](https://img.icons8.com/color/30/oracle-logo.png)
-![Git](https://img.icons8.com/color/30/git.png)
+![Java](https://img.icons8.com/color/30/java-coffee-cup-logo.png)
 ![Python](https://img.icons8.com/color/30/python.png)
 ![C++](https://img.icons8.com/color/30/c-plus-plus.png)
-![JasperReports](https://img.icons8.com/ios-filled/30/000000/pdf.png)
+![JavaScript](https://img.icons8.com/color/30/javascript.png)
+![HTML](https://img.icons8.com/color/30/html-5.png)
+![CSS](https://img.icons8.com/color/30/css3.png)
+![Angular](https://img.icons8.com/color/30/angularjs.png)
+![Node.js](https://img.icons8.com/color/30/nodejs.png)
+
+## 🧰 Tools
+
+![Git](https://img.icons8.com/color/30/git.png)
+![Docker](https://img.icons8.com/color/30/docker.png)
+![Postman](https://img.icons8.com/color/30/postman.png)
+![Visual Studio](https://img.icons8.com/color/30/visual-studio.png)
+![VS Code](https://img.icons8.com/color/30/visual-studio-code-2019.png)
+
+## 🗄️ Databases
+
+![Oracle](https://img.icons8.com/color/30/oracle-logo.png)
+![MySQL](https://img.icons8.com/color/30/mysql-logo.png)
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Omi-idk&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Omi-idk&theme=tokyonight" />
-</p>
-
 
 ## 💬 About Me
 
