@@ -4,7 +4,13 @@ Hi! My name is **Omar**, and I recently graduated with a degree in **Software En
 
 I enjoy working with modern technologies, ensuring software quality, and exploring tools that help improve real systems. I’ve participated in development and QA roles, and I'm especially interested in clean architecture, report generation, and web development.
 
+---
+
 ![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
+
+## :headphones: Mi spotify.
+
+[![Apple Music GitHub profile](https://music-profile.rayriffy.com/theme/dark.svg?uid=000289.45b56365da49455ab5a487d4effb7417.2250)](https://music-profile.rayriffy.com)
 
 ---
 
